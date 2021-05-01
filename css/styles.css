@@ -508,7 +508,7 @@ Hero
 ========================================================================== */
 .hero {
   min-height: 750px;
-  background: url("/Users/rishashah/Desktop/Sedna/img/bio.JPG") center center;
+  background: url("/Users/rishashah/Desktop/Sedna/img/bio.jpg") center center;
   background-size: cover;
   position: relative; }
   .hero .down-arrow a {
